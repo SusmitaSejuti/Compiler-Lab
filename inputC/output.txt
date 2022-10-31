@@ -1,0 +1,70 @@
+#include<stdio.h> is a header File
+It's a newline
+int is a Integer
+ main() is a main Function
+{ is open braces
+It's a newline
+    int is a Integer
+ a is a Variable
+,b is a Variable
+,c is a Variable
+;It's a newline
+    printf( is a Print Function
+"Enter is a Variable
+ two is a Variable
+ numbers is a Variable
+: ") is close parentheses
+;It's a newline
+    scanf( is Scanf Function
+"%d is a Integer Identifier
+ %d is a Integer Identifier
+" , &a is an input Specifier
+, &b is an input Specifier
+) is close parentheses
+;It's a newline
+    if is if Condition
+( is open parentheses
+a is a Variable
+> is Greater Than Opetator
+b is a Variable
+) is close parentheses
+It's a newline
+    printf( is a Print Function
+"a is a Variable
+= is Assignment Opetator
+" , a is a Variable
+) is close parentheses
+;It's a newline
+    else is else Condition
+It's a newline
+    printf( is a Print Function
+"b is a Variable
+= is Assignment Opetator
+" ,b is a Variable
+) is close parentheses
+;It's a newline
+    c is a Variable
+ = is Assignment Opetator
+ a is a Variable
+ + is Addition
+b is a Variable
+;It's a newline
+    printf( is a Print Function
+"Summation is a Variable
+= is Assignment Opetator
+ ",  c is a Variable
+) is close parentheses
+;It's a newline
+    printf( is a Print Function
+"Hello is a Variable
+ World is a Variable
+! is Logical Not Opetator
+") is close parentheses
+;It's a newline
+It's a newline
+    return 0 Returns From The Program
+;It's a newline
+It's a newline
+} is close braces
+It's a newline
+It's a newline

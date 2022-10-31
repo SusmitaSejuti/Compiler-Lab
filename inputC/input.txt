@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main(){
+    int a,b,c;
+    printf("Enter two numbers: ");
+    scanf("%d %d" , &a, &b);
+    if(a>b)
+    printf("a=" , a);
+    else
+    printf("b=" ,b);
+    c = a +b;
+    printf("Summation= ",  c);
+    printf("Hello World!");
+
+    return 0;
+
+}
+

@@ -1,0 +1,14 @@
+adds
+intg begin{
+intg a b c
+printf("Enter two numbers: ")
+if_con(a>b)
+else_con
+c = a + b
+printf("Summation= "   c)
+printf("Hello World")
+--cfvgbhjh--
+
+end
+}
+

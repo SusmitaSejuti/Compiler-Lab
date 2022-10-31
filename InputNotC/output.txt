@@ -1,0 +1,61 @@
+header File
+
+Integer
+Space
+main Function
+open braces
+
+Integer
+Space
+Variable
+Space
+Variable
+Space
+Variable
+
+Print Function
+open parentheses
+Sentence
+close parentheses
+
+if Condition
+open parentheses
+Variable
+Greater Than Opetator
+Variable
+close parentheses
+
+else Condition
+
+Variable
+Space
+Assignment Opetator
+Space
+Variable
+Space
+Addition
+Space
+Variable
+
+Print Function
+open parentheses
+Sentence
+Space
+Space
+Space
+Variable
+close parentheses
+
+Print Function
+open parentheses
+Sentence
+close parentheses
+
+Comment
+
+
+End of Program
+
+close braces
+
+
