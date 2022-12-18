@@ -1,0 +1,297 @@
+This is a header file
+
+
+
+Single Line Comment
+
+Variable declared
+
+Variable declared
+
+
+Value taken from user for f
+
+Value of f is 11.00
+
+Value of expression : 2.00
+
+
+a = 10.00
+
+b = 4.00
+
+c = 3.00
+
+d = 10.00
+
+m = 4.00
+
+p not declared
+
+
+Value of expression : 64.00
+
+e = 44.00
+
+e = 54.00
+
+e = 51.00
+
+
+e = 2.00
+
+Value of expression : 11.00
+
+Value of expression : 9.00
+
+
+f = 500.00
+
+
+Variable declared
+
+x = 10.00
+
+z = 8.00
+
+
+
+w = 8.00
+
+w = 10.00
+
+w = 2.00
+
+w = -11.00
+
+
+Value of expression : 4.00
+
+Value of expression : 1000.00
+
+Value of expression : 1.41
+
+Value of expression : 3628800.00
+
+
+Value of expression : 0.03
+
+Value of expression : -0.77
+
+Value of expression : -0.84
+
+
+Value of expression : 0.69
+
+
+Variable declared
+
+Value taken from user for y
+
+
+2020 leap year
+
+1900 not leap year
+
+2022 not leap year
+
+
+No! 4 not prime
+
+Yes! 3 prime
+
+
+
+13 is Largest
+
+7 is Smallest
+
+5 and 5 Both are Equal
+
+
+Before Swapping: x = 10, y = 20
+After Swapping: x = 20, y = 10
+
+
+All the divisors of 10 are -> 1 2 5 10 
+
+Summation of 1st 10 numbers is 55
+
+10 Even Number
+
+3 Odd Number
+
+
+LCM of 10 and 12 is 60 
+
+Gcd of 8 and 4 = 4
+
+
+
+
+Value of expression : 10.00
+
+User Define Function Found!
+
+
+Multiline Comment
+
+
+Single Line Comment
+
+
+
+
+
+
+Single Line Comment
+
+Condition false in IF_ELSE
+
+
+
+
+
+
+
+Value of Expression for IF_ELSE in Valid Condition: 16807.00
+
+
+Single Line Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Value of Expression for IF_ELSE in Valid Condition: 40320.00
+
+
+Single Line Comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Value of Expression for IF_ELSE in Valid Condition: 8.00
+
+
+Single Line Comment
+
+
+
+
+
+
+
+Single case switch statement found!
+
+
+
+
+
+
+
+
+
+
+
+
+Multiple case switch statement found!
+
+
+Single Line Comment
+
+
+For loop Found
+Value in for loop: 1.50
+Value in for loop: 1.50
+Value in for loop: 1.50
+
+
+
+For loop Found
+Value in for loop: 8.50
+Value in for loop: 8.50
+Value in for loop: 8.50
+Value in for loop: 8.50
+Value in for loop: 8.50
+
+
+
+For loop Found
+Value in for loop 8.50
+Value in for loop 8.50
+Value in for loop 8.50
+Value in for loop 8.50
+
+
+Single Line Comment
+
+
+
+
+Do while loop Found!.
+Value in do while loop: 120.00 
+
+
+
+Single Line Comment
+
+
+While loop found but either condition false or variable undeclared!
+
+
+
+While loop found & it works properly!
+Value in while loop: 6.00
+Value in while loop: 6.00
+
+
+
+While loop found & it works properly!
+Value in while loop: -1.73
+Value in while loop: -1.73
+Value in while loop: -1.73
+
+
+
+While loop found & it works properly!
+Value in while loop: 1.00
+Value in while loop: 1.00
+Value in while loop: 1.00
+Value in while loop: 1.00
+Value in while loop: 1.00
+
+
+
+Execution Done!

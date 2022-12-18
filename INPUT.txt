@@ -1,0 +1,199 @@
+#include<compiler.h>
+main()
+{
+    //Variable Declaration	
+    float a,b,c,d,e,i,j,m;
+	float f;
+
+	scan f;
+	print(f);
+	log10(100);
+
+	a = 10;
+	b = 4;
+	c = 3;
+	d = a;
+	m = 4;
+	p = 3;
+
+    b^c;
+	e = b*f ;
+	e = a+e;
+	e = e-c;
+
+	e = a%b;
+	a++;
+	a--;
+
+	f = (a^c )/e;
+
+	int w, x, z;
+	x = 10;
+	z = 8;
+
+	
+	w = x & z;
+	w = x | z;
+	w = x xor z;
+	w = ~ x;
+
+	sqr(e);
+	cube(a);
+	root(e);
+	fact(a);
+
+	sin(e);
+	cos(f);
+	tan(f);
+
+	ln(e);
+
+	int y;
+	scan y;
+
+	leap_year(2020);
+	leap_year(1900);
+	leap_year(2022);
+
+	prime(b);
+	prime(c);
+
+	
+	max((10),(13));
+	min((10),(7));
+	max((5),(5));
+	swap((10),(20));
+
+
+	divisors(d);
+	summation(d);
+	even_odd(x);
+	even_odd(c);
+
+	lcm((10),(12));
+	gcd((8),(4));
+
+	func A(a)
+	{
+    	4+6;
+	}
+	
+
+	/*
+	  Multiline Comment Section
+	  Multiline Comment Section
+	*/	
+
+	//IF
+	if 3 < 2
+    {
+	    3+2;
+    }
+
+	//IF_ELSE
+    if 3 == 4
+    {
+        5*5;
+    }
+    else
+    {
+	    7^5;
+    }
+
+	//NESTED IF_ELSE(1)
+	if 8 != 9
+	{   
+	    if 4 < 6
+	    { 
+		    fact(8);
+		}
+		else
+		{
+		    7;
+		}
+	}
+	else
+	{ 
+	    if 4 < 4
+	    { 
+		    6*7;
+	    }   
+	}
+	
+	//NESTED IF_ELSE(2)
+	if  2 > 2
+	{  
+	    if 4 >= 5
+	    { 
+		    6*7;
+	    }
+		else
+		{
+		   2;
+		}
+	}
+	else
+	{ 
+	    if 4 != 4
+	    { 
+		    sqr(8);
+		}
+		else
+		{
+		    8;
+		}
+	}
+	
+	//SWITCH_CASE
+	switch (d)
+    {
+	    case 1: 
+	        10*5; 
+        default:
+	        d;
+    }
+
+	switch (c)
+	{
+	    case 1:
+		    (10/2);
+	    case 2:
+		    cube(5);
+		case 3:
+		    root(10000);
+		default:
+		    sqr(12);
+	}
+
+	//FOR LOOP
+	for i in limit(10,3,3):
+		(1*5)-(7/2);
+    
+	for j in limit(10,5,1):
+        ((1*5)+(7/2));
+
+	for j in limit(4,10,2):
+        ((1*5)+(7/2));
+	
+	//DO WHILE LOOP
+	do{
+		fact(5);
+	}
+	do_while 30 >= 10; 
+
+
+	//WHILE LOOP
+	while j <= 7 , 2:
+        7;
+
+	while m >= 2 , 2:
+        fact(3);
+		
+	while x >= 2 , 3:
+        tan(120);
+
+	while z <= 20 , 3:
+        sin(90);
+		
+
+}
